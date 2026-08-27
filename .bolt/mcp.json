@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "https_kitesrealtimeheavenservicesytem_bolt_host": {
+      "enabled": false
+    },
+    "real_time_operations_service_request_command_center": {
+      "enabled": true
+    }
+  }
+}
