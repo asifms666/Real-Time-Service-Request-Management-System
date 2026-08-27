@@ -1,0 +1,7 @@
+project_id = "fykazfvnopnnperauvrw"
+
+[functions.service-requests-api]
+verify_jwt = false
+
+[functions.process-request]
+verify_jwt = false
